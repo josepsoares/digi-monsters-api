@@ -4,13 +4,16 @@
 
 ## About
 
-⭐ concept
+### ⭐ concept
+
 This project aims to make digimons data really easy to access for developers with the use of an API, allowing developers to create and experiment fun things with digimon stuff.
 
-📁 /api
+### 📁 /api
+
 A simple golang REST API developed with the [fiber framework](https://gofiber.io/) that returns info about digimons stored in a postgresql db. The digimon data is obtained via web scrapping using the [colly module](https://github.com/gocolly/colly).
 
-📁 /docs
+### 📁 /docs
+
 To simplify to everyone the use of the API a simple documentation website was developed with the Astro framework using the [docs starter kit template Astro](https://github.com/withastro/astro/tree/main/examples/docs) provides.
 The docs puporse is to explain the ways people should use the api and its endpoints.
 
