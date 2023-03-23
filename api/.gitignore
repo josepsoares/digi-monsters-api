@@ -1,0 +1,9 @@
+dist 
+build
+consumer
+logs
+tmp
+
+.env
+.env.dev
+.env.production
